@@ -1,0 +1,15 @@
+Federation ID for executable ./bin/federate__ray_ground_classifier: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:53:58 2025 ---- plus 495369863 nanoseconds
+global_init: process_id: 5 and name: federate__ray_ground_classifier
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 5 (ray_ground_classifier): Connected to RTI at rti:15045.
+Fed 5 (ray_ground_classifier): Connected to federate 6, port 57277.
+Fed 5 (ray_ground_classifier): Environment 0: ---- Intializing start tag
+Fed 5 (ray_ground_classifier): Starting timestamp is: 1762340092877370794.
+Fed 5 (ray_ground_classifier): Environment 0: ---- Spawning 2 workers.
+Fed 5 (ray_ground_classifier): Loaded node options
+Frame id = base_link
+Fed 5 (ray_ground_classifier): Initialized node. PCL Size = 55000
+Fed 5 (ray_ground_classifier): Initialized node. Width = 55000
+Fed 5 (ray_ground_classifier): Initialized node. Frame id = base_link

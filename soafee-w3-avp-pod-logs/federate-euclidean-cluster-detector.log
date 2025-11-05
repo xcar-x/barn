@@ -1,0 +1,10 @@
+Federation ID for executable ./bin/federate__euclidean_cluster_detector: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:53:59 2025 ---- plus 106334720 nanoseconds
+global_init: process_id: 6 and name: federate__euclidean_cluster_detector
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 6 (euclidean_cluster_detector): Connected to RTI at rti:15045.
+Fed 6 (euclidean_cluster_detector): Connected to federate 9, port 48299.
+Fed 6 (euclidean_cluster_detector): Environment 0: ---- Intializing start tag
+Fed 6 (euclidean_cluster_detector): Starting timestamp is: 1762340092877370794.
+Fed 6 (euclidean_cluster_detector): Environment 0: ---- Spawning 2 workers.

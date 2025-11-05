@@ -1,0 +1,26 @@
+[0m[INFO] [1762340086.431184211] [lgsvl-bridge]: Listening on port 9091[0m
+LGSVL: Connecting to a bridge
+Bridge connected: False
+Waiting for connection...
+[0m[INFO] [1762340092.701069627] [lgsvl-bridge]: Client [10.42.0.1:35684] connected[0m
+[0m[INFO] [1762340092.772561569] [lgsvl-bridge]: Loaded type support for lgsvl_msgs/CanBusData type[0m
+[0m[INFO] [1762340092.772940350] [lgsvl-bridge]: Publishing lgsvl_msgs/CanBusData on /lgsvl/state_report[0m
+[0m[INFO] [1762340092.807343917] [lgsvl-bridge]: Loaded type support for sensor_msgs/NavSatFix type[0m
+[0m[INFO] [1762340092.807553155] [lgsvl-bridge]: Publishing sensor_msgs/NavSatFix on /gnss/fix[0m
+[0m[INFO] [1762340092.809463610] [lgsvl-bridge]: Loaded type support for nav_msgs/Odometry type[0m
+[0m[INFO] [1762340092.809656006] [lgsvl-bridge]: Publishing nav_msgs/Odometry on /lgsvl/gnss_odom[0m
+[0m[INFO] [1762340092.809671307] [lgsvl-bridge]: Loaded type support for sensor_msgs/Imu type[0m
+[0m[INFO] [1762340092.809770685] [lgsvl-bridge]: Publishing sensor_msgs/Imu on /imu/imu_raw[0m
+[0m[INFO] [1762340092.809781044] [lgsvl-bridge]: Loaded type support for sensor_msgs/PointCloud2 type[0m
+[0m[INFO] [1762340092.809888409] [lgsvl-bridge]: Publishing sensor_msgs/PointCloud2 on /lidar_front/points_raw[0m
+[0m[INFO] [1762340092.809997079] [lgsvl-bridge]: Publishing sensor_msgs/PointCloud2 on /lidar_rear/points_raw[0m
+[0m[INFO] [1762340092.810015191] [lgsvl-bridge]: Loaded type support for lgsvl_msgs/VehicleControlData type[0m
+[0m[INFO] [1762340092.810043003] [lgsvl-bridge]: Loaded type support for lgsvl_msgs/VehicleStateData type[0m
+[0m[INFO] [1762340092.811018193] [lgsvl-bridge]: Loaded type support for rosgraph_msgs/Clock type[0m
+[0m[INFO] [1762340092.811120170] [lgsvl-bridge]: Publishing rosgraph_msgs/Clock on /lgsvl/clock[0m
+[0m[INFO] [1762340092.811132914] [lgsvl-bridge]: Loaded type support for lgsvl_msgs/VehicleOdometry type[0m
+[0m[INFO] [1762340092.811230048] [lgsvl-bridge]: Publishing lgsvl_msgs/VehicleOdometry on /lgsvl/vehicle_odom[0m
+[0m[INFO] [1762340092.835596055] [lgsvl-bridge]: Subscribed lgsvl_msgs/VehicleControlData on /lgsvl/vehicle_control_cmd[0m
+[0m[INFO] [1762340092.835743559] [lgsvl-bridge]: Subscribed lgsvl_msgs/VehicleStateData on /lgsvl/vehicle_state_cmd[0m
+Bridge connected: True
+Running the simulation until exited with ctrl-c

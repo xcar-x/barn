@@ -1,0 +1,20 @@
+Federation ID for executable ./bin/federate__map_provider: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:54:06 2025 ---- plus 880774489 nanoseconds
+global_init: process_id: 18 and name: federate__map_provider
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 18 (map_provider): Connected to RTI at rti:15045.
+Fed 18 (map_provider): Connected to federate 13, port 46097.
+Fed 18 (map_provider): Connected to federate 0, port 40053.
+Fed 18 (map_provider): Connected to federate 9, port 48299.
+Fed 18 (map_provider): Connected to federate 10, port 57583.
+Fed 18 (map_provider): Connected to federate 12, port 41507.
+Fed 18 (map_provider): Connected to federate 11, port 59343.
+Fed 18 (map_provider): Environment 0: ---- Intializing start tag
+Fed 18 (map_provider): Starting timestamp is: 1762340092877370794.
+Fed 18 (map_provider): Environment 0: ---- Spawning 7 workers.
+[0m[INFO] [1762340092.993705105] [Lanelet2MapProvider]: Waiting for earth to map transform - please start ndt_map_publisher .... : "earth" passed to lookupTransform argument target_frame does not exist. [0m
+[0m[INFO] [1762340093.093717468] [Lanelet2MapProvider]: Waiting for earth to map transform - please start ndt_map_publisher .... : "earth" passed to lookupTransform argument target_frame does not exist. [0m
+[0m[INFO] [1762340093.193757030] [Lanelet2MapProvider]: Waiting for earth to map transform - please start ndt_map_publisher .... : "earth" passed to lookupTransform argument target_frame does not exist. [0m
+[0m[INFO] [1762340093.293709313] [Lanelet2MapProvider]: Waiting for earth to map transform - please start ndt_map_publisher .... : "earth" passed to lookupTransform argument target_frame does not exist. [0m
+[0m[INFO] [1762340093.393705195] [Lanelet2MapProvider]: Waiting for earth to map transform - please start ndt_map_publisher .... : "earth" passed to lookupTransform argument target_frame does not exist. [0m

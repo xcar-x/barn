@@ -1,0 +1,12 @@
+Federation ID for executable ./bin/federate__lgsvl_interface: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:54:04 2025 ---- plus 955117166 nanoseconds
+global_init: process_id: 15 and name: federate__lgsvl_interface
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 15 (lgsvl_interface): Connected to RTI at rti:15045.
+Fed 15 (lgsvl_interface): Connected to federate 13, port 46097.
+Fed 15 (lgsvl_interface): Connected to federate 10, port 57583.
+Fed 15 (lgsvl_interface): Connected to federate 16, port 45701.
+Fed 15 (lgsvl_interface): Environment 0: ---- Intializing start tag
+Fed 15 (lgsvl_interface): Starting timestamp is: 1762340092877370794.
+Fed 15 (lgsvl_interface): Environment 0: ---- Spawning 4 workers.

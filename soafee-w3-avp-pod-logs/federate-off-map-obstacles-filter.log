@@ -1,0 +1,13 @@
+Federation ID for executable ./bin/federate__off_map_obstacles_filter: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:54:01 2025 ---- plus 74086777 nanoseconds
+global_init: process_id: 9 and name: federate__off_map_obstacles_filter
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 9 (off_map_obstacles_filter): Connected to RTI at rti:15045.
+Fed 9 (off_map_obstacles_filter): Connected to federate 14, port 42987.
+Fed 9 (off_map_obstacles_filter): Connected to federate 18, port 39885.
+Fed 9 (off_map_obstacles_filter): Environment 0: ---- Intializing start tag
+Fed 9 (off_map_obstacles_filter): Starting timestamp is: 1762340092877370794.
+Fed 9 (off_map_obstacles_filter): Environment 0: ---- Spawning 3 workers.
+Fed 9 (off_map_obstacles_filter): Requesting map.
+Fed 9 (off_map_obstacles_filter): Got the map.

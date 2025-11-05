@@ -1,0 +1,10 @@
+Federation ID for executable ./bin/federate__voxel_grid_downsampler: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:53:57 2025 ---- plus 801791569 nanoseconds
+global_init: process_id: 4 and name: federate__voxel_grid_downsampler
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 4 (voxel_grid_downsampler): Connected to RTI at rti:15045.
+Fed 4 (voxel_grid_downsampler): Connected to federate 8, port 48669.
+Fed 4 (voxel_grid_downsampler): Environment 0: ---- Intializing start tag
+Fed 4 (voxel_grid_downsampler): Starting timestamp is: 1762340092877370794.
+Fed 4 (voxel_grid_downsampler): Environment 0: ---- Spawning 2 workers.

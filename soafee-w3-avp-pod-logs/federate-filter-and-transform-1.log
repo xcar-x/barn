@@ -1,0 +1,10 @@
+Federation ID for executable ./bin/federate__filter_and_transform__1: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:53:56 2025 ---- plus 823416199 nanoseconds
+global_init: process_id: 2 and name: federate__filter_and_transform__1
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 2 (filter_and_transform__1): Connected to RTI at rti:15045.
+Fed 2 (filter_and_transform__1): Connected to federate 3, port 38385.
+Fed 2 (filter_and_transform__1): Environment 0: ---- Intializing start tag
+Fed 2 (filter_and_transform__1): Starting timestamp is: 1762340092877370794.
+Fed 2 (filter_and_transform__1): Environment 0: ---- Spawning 2 workers.

@@ -1,0 +1,11 @@
+Federation ID for executable ./bin/federate__ndt_map_publisher: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:53:59 2025 ---- plus 883822649 nanoseconds
+global_init: process_id: 7 and name: federate__ndt_map_publisher
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 7 (ndt_map_publisher): Connected to RTI at rti:15045.
+Fed 7 (ndt_map_publisher): Connected to federate 8, port 48669.
+Fed 7 (ndt_map_publisher): Environment 0: ---- Intializing start tag
+Fed 7 (ndt_map_publisher): Starting timestamp is: 1762340092877370794.
+Fed 7 (ndt_map_publisher): Environment 0: ---- Spawning 1 workers.
+[0m[INFO] [1762340092.953136008] [ndt_map_publisher_node]: map_pcd_file: /Autoware-support/autonomoustuff_parking_lot_lgsvl.pcd[0m

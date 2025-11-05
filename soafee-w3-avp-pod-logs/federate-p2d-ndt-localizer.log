@@ -1,0 +1,9 @@
+Federation ID for executable ./bin/federate__p2d_ndt_localizer: 1
+---- System clock resolution: 1 nsec
+---- Start execution on Wed Nov 05 10:54:00 2025 ---- plus 442811452 nanoseconds
+global_init: process_id: 8 and name: federate__p2d_ndt_localizer
+global_init: telegraf url: udp://10.200.101.19:8094/telegraf
+Fed 8 (p2d_ndt_localizer): Connected to RTI at rti:15045.
+Fed 8 (p2d_ndt_localizer): Environment 0: ---- Intializing start tag
+Fed 8 (p2d_ndt_localizer): Starting timestamp is: 1762340092877370794.
+Fed 8 (p2d_ndt_localizer): Environment 0: ---- Spawning 3 workers.
